@@ -1,4 +1,3 @@
-// Heap Implementation
 // Program to Sort Charaters of String using Priority Queue
 
 #include<bits/stdc++.h>
