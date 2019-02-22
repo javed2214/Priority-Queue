@@ -5,7 +5,7 @@ using namespace std;
 
 double calDistance(int x, int y){
 
-	double z=sqrt(pow(abs(x),2)+pow(abs(y),2));
+	double z=sqrt(pow(x,2)+pow(y,2));
 	return z;
 }
 
